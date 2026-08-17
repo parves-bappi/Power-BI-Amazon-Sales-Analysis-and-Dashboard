@@ -130,6 +130,5 @@ The interactive nature of the dashboard allows users to move from high-level KPI
 ---
 ## 📄 Bonus: Project Report
 A brief report is also included, providing additional details about the project and dashboard.
-📑 [View Project Report (PDF)](https://github.com/parves-bappi/Power-BI-Amazon-Sales-Analysis-and-Dashboard/blob/668f9ec4ff9a87495f21dc3059dcf2d7f57cec32/Data-Driven%20Sales%20Analysis%20of%20Amazon%20Products%20Using%20Power%20BI.pdf)
-
+📑 [View Project Report (PDF)](https://github.com/parves-bappi/Power-BI-Amazon-Sales-Analysis-and-Dashboard/blob/523a123fb50596c9114f8e7b12e9bca036ce2552/Sales%20Analysis%20of%20Amazon%20Products%20Using%20Power%20BI.pdf)
 -----------------------
