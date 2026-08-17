@@ -14,7 +14,7 @@ This project presents an interactive Power BI dashboard developed to analyze Ama
 
 ## 📂 Dataset
 The dataset used for this project was obtained from Kaggle.
-[View Project Report (PDF)](https://github.com/parves-bappi/Power-BI-Amazon-Sales-Analysis-and-Dashboard/blob/0180dd8129521a873f2916a628b4c40e2592ba87/Amazon%20Sample%20Data%20(Public).xlsx) or [View Dataset on Kaggle](https://www.kaggle.com/)
+[View Project Report (xlsx)](https://github.com/parves-bappi/Power-BI-Amazon-Sales-Analysis-and-Dashboard/blob/0180dd8129521a873f2916a628b4c40e2592ba87/Amazon%20Sample%20Data%20(Public).xlsx) or [View Dataset on Kaggle](https://www.kaggle.com/)
 
 ## 🎯 Business Objectives
 The analysis focuses on answering key business questions such as:
